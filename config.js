@@ -1,5 +1,5 @@
 // Solo valores PÚBLICOS (Supabase > Project Settings > API). Nunca la clave service_role.
 window.URBAN11 = {
-  SUPABASE_URL: 'https://zdqnvqiypeivejxspsal.supabase.co',
-  SUPABASE_ANON_KEY: 'TU_CLAVE_ANON_PUBLICA'
+  SUPABASE_URL: 'https://nqelhgxafiyagxyjfjlt.supabase.co/rest/v1/',
+  SUPABASE_ANON_KEY: 'sb_publishable_RV3JImfoGbbOi_aIwpjjoA_ErKItl0Q'
 };
